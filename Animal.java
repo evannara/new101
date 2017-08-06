@@ -1,3 +1,9 @@
+
+Utexas must have add this line
+Utexas All Must have this line
+Utexas Important to have this line;
+Whatever need this
+
 class Animal {
    public void move() {
       System.out.println("Animals can move");
@@ -5,12 +11,12 @@ class Animal {
 }
 
 Yes we need it here.
+
 class Dog extends Animal {
    public void move() {
       System.out.println("Dogs can walk and run");
    }
 }
-
 public class TestDog {
 
    public static void main(String args[]) {
@@ -23,3 +29,4 @@ public class TestDog {
 }
 
 I think it is a good idea.
+
