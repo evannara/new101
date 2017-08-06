@@ -4,19 +4,6 @@ Utexas All Must have this line
 Utexas Important to have this line;
 Whatever need this
 
-class Animal {
-   public void move() {
-      System.out.println("Animals can move");
-   }
-}
-
-Yes we dont need it here.
-
-class Dog extends Animal {
-   public void move() {
-      System.out.println("Dogs can walk and run");
-   }
-}
 
 add bones google account
 public class TestDog {
