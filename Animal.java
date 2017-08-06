@@ -10,8 +10,11 @@ public class TestDog {
 
    public static void main(String args[]) {
       Animal a = new Animal();   // Animal reference and object
-      Animal b = new Dog();   // Animal reference but Dog object
+      Animal b = new Cat();   // Animal reference but Dog object
+ 	Yes I know
  	Wow
+
+ 	Can't believe that
    }
 }
 
