@@ -17,14 +17,14 @@ class Dog extends Animal {
       System.out.println("Dogs can walk and run");
    }
 }
+
+add from google account
 public class TestDog {
 
    public static void main(String args[]) {
       Animal a = new Animal();   // Animal reference and object
       Animal b = new Dog();   // Animal reference but Dog object
-
-      a.move();   
-      b.move();   
+ 
    }
 }
 
