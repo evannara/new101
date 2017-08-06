@@ -1,12 +1,13 @@
 class Animal {
    public void move() {
       System.out.println(Animals can move);
+      Yes it can move
    }
 }
 
 class Dog extends Animal {
    public void move() {
-      System.out.println(Dogs can walk and run);
+      System.out.println(Dogs can fly and bite);
    }
 }
 
