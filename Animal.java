@@ -10,7 +10,7 @@ class Animal {
    }
 }
 
-Yes we need it here.
+Yes we dont need it here.
 
 class Dog extends Animal {
    public void move() {
@@ -18,7 +18,7 @@ class Dog extends Animal {
    }
 }
 
-add from google account
+add bones google account
 public class TestDog {
 
    public static void main(String args[]) {
